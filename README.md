@@ -1,7 +1,7 @@
-# Electron+Angular.js+THree.js GAME
+# Electron App
 by <http://someonesgarden.org>
 
-Electron+Angular.js+THree.js GAME
+Electron
 
 
 ### Packaging
